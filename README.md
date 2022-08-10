@@ -6,7 +6,8 @@ The purpose of this analysis was to examine weather trends in Oahu, Hawaii to se
 
 ## Results 
 
-![June Temp Stats](resources/June_Temp.png)
+![June Temp Stats](https://github.com/lydiadingess/surfs_up/blob/main/Resources/June_Temp.png?raw=true)
+
 
 
 
