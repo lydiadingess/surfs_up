@@ -19,3 +19,11 @@ This graph shoes that most temperatures year round are over 67 degrees. Majority
 
 This chart gives us a summary of the precipitation in the previous year. The average amount of rainfall within the year was 0.18 inches. The rainfall is faily light. Customers will not have to worry about a rainstorm in the middle of a scoop of ice cream or riding a wave. 
 
+## Summary
+
+Oahu would be a great place to invest in a surf and ice cream shop. The weather data has shown that the weather is moderate all year- round and rarely too cool to enjoy some ice cream. There may be the occasional downpour of rain, but most days are clear.
+
+If the investor needs additional information, these are two additional queries that I would preform.
+
+  1. Average wind speed. Wind speed can have an impact on the quality of the swell.
+  2. Average hour of sunshine in the summer and winter months. This will impact how long the shop could be open. 
